@@ -1,0 +1,24 @@
+{
+  "name": "ce-sandbox-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukevance/ce-sandbox-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukevance/ce-sandbox-monitor/issues"
+  },
+  "homepage": "https://github.com/lukevance/ce-sandbox-monitor#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "middy": "^0.22.1",
+    "serverless-http": "^1.9.1"
+  }
+}
